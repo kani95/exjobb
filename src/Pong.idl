@@ -1,0 +1,5 @@
+struct Pong
+{
+    long filler[7];
+    long time;
+};

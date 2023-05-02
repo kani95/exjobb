@@ -1,0 +1,5 @@
+struct Ping
+{
+    long filler[7];
+    long time;
+};
