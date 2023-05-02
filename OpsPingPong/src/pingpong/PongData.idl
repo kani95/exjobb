@@ -1,0 +1,7 @@
+package PingPong;
+
+class PongData
+{
+    long[3] filler;
+    long time;
+}
